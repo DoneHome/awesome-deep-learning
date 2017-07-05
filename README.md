@@ -10,7 +10,7 @@
  - [Videos](#videos)
 
 ## Blogs
- * [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html#challenges), a PhD student from.
+ * [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html#challenges), a PhD student.
 
 ## Papers
 
