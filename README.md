@@ -8,6 +8,8 @@
  - [Blogs](#blogs)
  - [Papers](#papers)
  - [Videos](#videos)
+ - [Books](#Books)
+ 
 
 ## Blogs
  * [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html#challenges), a PhD student.
@@ -15,7 +17,10 @@
 ## Papers
 
 ## Videos
- * [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/syllabus.html), A. Karpathy et al.
+ * [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/syllabus.html), Andrej Karpathy.
+
+## Books
+ * [Deep Learning](http://www.deeplearningbook.org/), Ian Goodfellow et al.
 
 ## Licenses
 License
