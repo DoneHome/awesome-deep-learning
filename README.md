@@ -1,7 +1,7 @@
 
 # Awesome Deep Learning: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-精心收集的一些深度学习资源列表
+A curated list of awesome deep learning resources, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
 ## Table of Contents
 
