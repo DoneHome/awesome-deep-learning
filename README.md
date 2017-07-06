@@ -18,6 +18,7 @@ A curated list of awesome deep learning resources, inspired by [awesome-computer
 
 ## Videos
  * [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/syllabus.html), Andrej Karpathy.
+ * [Machine Learning and having it Deep and Structured](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS17.html),Hung-yi Lee.
 
 ## Books
  * [Deep Learning](http://www.deeplearningbook.org/), Ian Goodfellow et al.
