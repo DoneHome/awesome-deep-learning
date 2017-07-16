@@ -9,12 +9,16 @@ A curated list of awesome deep learning resources, inspired by [awesome-computer
  - [Papers](#papers)
  - [Videos](#videos)
  - [Books](#Books)
- 
+ - [Slides](#Slides)
 
 ## Blogs
  * [An overview of gradient descent optimization algorithms](http://sebastianruder.com/optimizing-gradient-descent/index.html#challenges), a PhD student.
 
 ## Papers
+ * [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167), Sergey Ioffe, Christian Szegedy
+ * [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf), Nitish Srivastava, Geoffrey Hinton, et al
+ * [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/abs/1706.02677), facebook researchers.
+ * [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/abs/1206.5533), Yoshua Bengio.
 
 ## Videos
  * [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/syllabus.html), Andrej Karpathy.
@@ -22,6 +26,9 @@ A curated list of awesome deep learning resources, inspired by [awesome-computer
 
 ## Books
  * [Deep Learning](http://www.deeplearningbook.org/), Ian Goodfellow et al.
+
+## Slides
+ * [Overview of mini-batch gradient descent](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf), Geoffrey Hinton et al.
 
 ## Licenses
 License
