@@ -19,6 +19,7 @@ A curated list of awesome deep learning resources, inspired by [awesome-computer
  * [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf), Nitish Srivastava, Geoffrey Hinton, et al.
  * [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/abs/1706.02677), facebook researchers.
  * [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/abs/1206.5533), Yoshua Bengio.
+ * [Coursera.org-Deep learning](https://www.coursera.org/specializations/deep-learning), Andrew Ng.
 
 ## Videos
  * [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/syllabus.html), Andrej Karpathy.
