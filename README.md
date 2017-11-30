@@ -24,7 +24,7 @@ A curated list of awesome deep learning resources, inspired by [awesome-computer
  * VggNet-16:[Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf), Simonyan K, et al.
  * ResNet:[Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf), He K, et al.
  * 1×1 conv:[Network In Network](https://arxiv.org/pdf/1312.4400.pdf), Lin M, et al.
- * INceptionNet:[Computer Vision and Pattern Recognition](https://arxiv.org/pdf/1409.4842.pdf), Szegedy C, et al.
+ * InceptionNet:[Computer Vision and Pattern Recognition](https://arxiv.org/pdf/1409.4842.pdf), Szegedy C, et al.
 
 ## Videos
  * [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/syllabus.html), Andrej Karpathy.
