@@ -19,6 +19,12 @@ A curated list of awesome deep learning resources, inspired by [awesome-computer
  * [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf), Nitish Srivastava, Geoffrey Hinton, et al.
  * [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://arxiv.org/abs/1706.02677), facebook researchers.
  * [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/abs/1206.5533), Yoshua Bengio.
+ * LeNet-5:[Gradient-based learning applied to document recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf),Lécun Y, et al.
+ * AlexNet:[ImageNet classification with deep convolutional neural networks](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf),Krizhevsky A, et al.
+ * VggNet-16:[Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/pdf/1409.1556.pdf), Simonyan K, et al.
+ * ResNet:[Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385.pdf), He K, et al.
+ * 1×1 conv:[Network In Network](https://arxiv.org/pdf/1312.4400.pdf), Lin M, et al.
+ * INceptionNet:[Computer Vision and Pattern Recognition](https://arxiv.org/pdf/1409.4842.pdf), Szegedy C, et al.
 
 ## Videos
  * [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/syllabus.html), Andrej Karpathy.
